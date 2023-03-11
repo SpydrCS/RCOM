@@ -1,0 +1,248 @@
+1668295433;State: Opening serial port /dev/ttyS11 ...
+1668295433;FD1: 9
+1668295433;FD: 9
+1668295435;SUCCESS: in check_supervision_frame() - role: 1
+1668295435;SUCCESS: opened connection receiver-emitter (llopen).
+1668295435;llrole: /dev/ttyS11
+1668295435;FD llopen: 9
+1668295435;Success: opened serial port (llopen). Established connection.
+1668295435;receiver
+1668295435;[receiver]: started using serial port
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 18
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 256
+1668295435;[receiver]: got file 1668295431;State: Opening serial port /dev/ttyS10 ...
+1668295431;FD1: 9
+1668295431;FD: 9
+1668295431;FD/Tries/Timeout: 9, 3, 4
+1668295431;SET flag sent, 5 bytes written
+1668295431;[emitter]: set sent 3
+1668295431;SET flag sent, 5 bytes written
+1668295431;[emitter]: set sent 2
+info
+1668295435;[receiver]: getting file info
+1668295435;RR0 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 136
+1668295435;[receiver]: got file info
+1668295435;[receiver]: getting file info
+1668295435;RR1 flag sent, 5 bytes written
+1668295435;Information frame received.
+1668295435;R: 18
+1668295435;[receiver]: got file info

@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "link_layer.h": "c",
+        "stdio.h": "c",
+        "application_layer.h": "c",
+        "emitter.h": "c",
+        "receiver.h": "c",
+        "fcntl.h": "c",
+        "alarm.h": "c",
+        "connection.h": "c",
+        "utils.h": "c",
+        "logs.h": "c"
+    }
+}
